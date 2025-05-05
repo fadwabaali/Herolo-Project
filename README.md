@@ -22,7 +22,7 @@ Welcome to the **Herolo Weather App**, a sleek, responsive web app built with **
 
 ## 📸 Preview
 
-![Weather App Screenshot](./assets/preview.png)
+![Weather App Screenshot](./preview.png)
 
 ---
 
