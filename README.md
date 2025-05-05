@@ -42,4 +42,4 @@ Welcome to the **Herolo Weather App**, a sleek, responsive web app built with **
 
 ```bash
 git clone https://github.com/fadwabaali/Herolo-Project.git
-cd Herolo-Project
+cd WeatherApp
